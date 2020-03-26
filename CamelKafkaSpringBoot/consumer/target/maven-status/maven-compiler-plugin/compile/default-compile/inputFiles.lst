@@ -1,0 +1,14 @@
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/consumer/servizi/LastEndTripManager.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/finder/rest/NotificationClient.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/finder/repo/TripRepository.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/Application.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/finder/rest/Response.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/consumer/servizi/TripRouteBuilder.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/finder/CheckForEndTripService.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/consumer/servizi/SensorData.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/finder/FinderComponent.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/finder/repo/TripRepositoryExtension.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/finder/rest/Request.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/DataSourceConfig.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/consumer/servizi/TspData.java
+/home/suinfreedom/Programmi/GITHUB/cosesviluppate/CamelKafkaSpringBoot/endtripfinder/src/main/java/it/consumer/finder/repo/entities/TripEntity.java

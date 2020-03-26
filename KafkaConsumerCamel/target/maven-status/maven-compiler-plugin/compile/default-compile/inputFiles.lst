@@ -1,0 +1,15 @@
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/Application.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/consumer/servizi/TspData.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/DataSourceConfig.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/endtripfinder/FinderComponent.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/endtripfinder/CheckForEndTripService.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/endtripfinder/repo/TripRepository.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/consumer/servizi/LastEndTripManager.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/consumer/servizi/SensorData.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/endtripfinder/rest/Response.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/endtripfinder/rest/Request.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/consumer/servizi/TripRouteBuilder.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/endtripfinder/repo/TripRepositoryExtension.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/endtripfinder/repo/entities/TripEntity.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/endtripfinder/exception/MissingItemException.java
+/home/suinfreedom/Programmi/GITHUB/KafkaConsumerCamel/src/main/java/it/fairconnect/endtripfinder/rest/NotificationClient.java

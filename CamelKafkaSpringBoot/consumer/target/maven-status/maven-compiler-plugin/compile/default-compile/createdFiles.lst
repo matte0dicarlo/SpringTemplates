@@ -1,0 +1,14 @@
+it/consumer/finder/repo/entities/TripEntity.class
+it/consumer/finder/rest/NotificationClient.class
+it/consumer/consumer/servizi/TripRouteBuilder.class
+it/consumer/finder/repo/TripRepository.class
+it/consumer/consumer/servizi/SensorData.class
+it/consumer/finder/repo/TripRepositoryExtension.class
+it/consumer/Application.class
+it/consumer/DataSourceConfig.class
+it/consumer/finder/FinderComponent.class
+it/consumer/finder/rest/Response.class
+it/consumer/finder/rest/Request.class
+it/consumer/consumer/servizi/LastEndTripManager.class
+it/consumer/finder/CheckForEndTripService.class
+it/consumer/consumer/servizi/TspData.class

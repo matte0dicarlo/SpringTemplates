@@ -1,0 +1,15 @@
+it/fairconnect/consumer/servizi/TripRouteBuilder.class
+it/fairconnect/endtripfinder/rest/Request.class
+it/fairconnect/DataSourceConfig.class
+it/fairconnect/endtripfinder/rest/NotificationClient.class
+it/fairconnect/endtripfinder/FinderComponent.class
+it/fairconnect/endtripfinder/repo/TripRepository.class
+it/fairconnect/consumer/servizi/LastEndTripManager.class
+it/fairconnect/endtripfinder/repo/entities/TripEntity.class
+it/fairconnect/Application.class
+it/fairconnect/endtripfinder/repo/TripRepositoryExtension.class
+it/fairconnect/endtripfinder/CheckForEndTripService.class
+it/fairconnect/endtripfinder/rest/Response.class
+it/fairconnect/endtripfinder/exception/MissingItemException.class
+it/fairconnect/consumer/servizi/TspData.class
+it/fairconnect/consumer/servizi/SensorData.class

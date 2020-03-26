@@ -1,0 +1,23 @@
+package it.consumer;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Import;
+import org.springframework.scheduling.annotation.EnableScheduling;
+
+@SpringBootApplication
+@EnableScheduling
+@Import(DataSourceConfig.class)
+//@ComponentScan(basePackages = {"it.consumer.finder", "it.consumer.finder.rest", "it.consumer.consumer"})
+@ComponentScan(basePackages = {"it.consumer"})
+public class Application {
+    private static final Logger log = LoggerFactory.getLogger(Application.class);
+
+    public static void main(String[] args) {
+        SpringApplication.run(Application.class);
+        log.info("-- MAIN --");
+    }
+}
