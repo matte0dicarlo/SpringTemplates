@@ -1,0 +1,36 @@
+
+
+
+
+
+alarm data test json:
+
+{
+"idAllarme":"123",
+"dataEvento":"2010-02-17T07:04:01.350+0000",
+"lat":"1",
+"lon":"1",
+"vel":"1",
+"pathFileCrash":"test",
+"idContratto":"123",
+"fix":"true",
+"dataFix":"2010-02-17T07:04:01.350+0000",
+"maxAccX":"1",
+"maxAccY":"1",
+"maxAccZ":"1",
+"input":"1",
+"tipo":"1",
+"versionCrash":"1",
+"typeFlusso":"1",
+"idTrip":"1",
+"orientamento":"1",
+"nSat":"1",
+"altitude":"1",
+"dirMarcia":"1"
+}
+
+//Crash
+{ "idAllarme":"123", "dataEvento":"2010-02-17T07:04:01.350+0000", "lat":"1", "lon":"1", "vel":"1", "pathFileCrash":"test", "idContratto":"123", "fix":"true", "dataFix":"2010-02-17T07:04:01.350+0000", "maxAccX":"1", "maxAccY":"1", "maxAccZ":"1", "input":"1", "tipo":"1", "versionCrash":"1", "typeFlusso":"0", "idTrip":"1", "orientamento":"1", "nSat":"1", "altitude":"1", "dirMarcia":"1"}
+
+//Alarm
+{ "idAllarme":"123", "dataEvento":"2010-02-17T07:04:01.350+0000", "lat":"1", "lon":"1", "vel":"1", "pathFileCrash":"test", "idContratto":"123", "fix":"true", "dataFix":"2010-02-17T07:04:01.350+0000", "maxAccX":"1", "maxAccY":"1", "maxAccZ":"1", "input":"1", "tipo":"1", "versionCrash":"1", "typeFlusso":"1", "idTrip":"1", "orientamento":"1", "nSat":"1", "altitude":"1", "dirMarcia":"1"}
