@@ -1,26 +1,3 @@
-/*
-package it.fairconnect.crashdatastream;
-
-import org.apache.kafka.streams.kstream.TimeWindows;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.stream.annotation.EnableBinding;
-import org.springframework.cloud.stream.annotation.Input;
-import org.springframework.cloud.stream.annotation.Output;
-import org.springframework.cloud.stream.annotation.StreamListener;
-import org.springframework.messaging.MessageChannel;
-import org.springframework.messaging.SubscribableChannel;
-import org.springframework.messaging.handler.annotation.SendTo;
-
-*/
-/**
- * Binds single input topic to multiple output topic
- *//*
-
 
 @SpringBootApplication
 public class SingleInputToMultipleOutplutApplication {
