@@ -1,0 +1,5 @@
+it/topicswitcher/DataSourceConfig.class
+it/topicswitcher/consumer/servizi/AlarmDataRouteBuilder.class
+it/topicswitcher/consumer/servizi/AlarmData.class
+it/topicswitcher/consumer/servizi/TopicSwitcher.class
+it/topicswitcher/Application.class
