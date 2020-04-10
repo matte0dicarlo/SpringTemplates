@@ -14,7 +14,7 @@ public class FinderComponent {
     @Autowired
     private CheckForEndTripService checkForEndTripService;
 
-    @Scheduled(fixedRate = 30000)    //todo: da cambiare in 30 secondi
+    @Scheduled(fixedRate = 30000)
     public void checkForEndTrip() {
         log.info("component.. ");
         checkForEndTripService.checkForEndTripByIdDevice();
