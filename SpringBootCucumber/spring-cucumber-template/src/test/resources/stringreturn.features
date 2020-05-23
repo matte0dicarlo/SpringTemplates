@@ -1,0 +1,9 @@
+Feature: la stringa viene recuperata
+
+  Scenario: funzionalità di recupeo stringa minore
+    When viene chiamata con valore minore 300
+    Then riceve una stringa che dice che il dato è minore del valore soglia
+
+  Scenario: funzionalità di recupeo stringa maggiore
+    When viene chiamata con valore maggiore 700
+    Then riceve una stringa che dice che il dato è maggiore del valore soglia
