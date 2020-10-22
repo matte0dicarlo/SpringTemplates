@@ -1,4 +1,4 @@
-package kafkacamelconsumerhttpclient.PdfClient;
+package it.kafkacamelconsumerhttpclient.PdfClient;
 
 import lombok.Data;
 import org.springframework.stereotype.Component;

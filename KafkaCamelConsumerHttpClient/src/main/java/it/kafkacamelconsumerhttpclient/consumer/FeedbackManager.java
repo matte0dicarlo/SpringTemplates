@@ -1,4 +1,4 @@
-package kafkacamelconsumerhttpclient.consumer;
+package it.kafkacamelconsumerhttpclient.consumer;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import it.kafkacamelconsumerhttpclient.PdfClient.PdfHttpClient;

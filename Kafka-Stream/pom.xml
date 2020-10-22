@@ -22,6 +22,9 @@
         <spring-cloud-stream.version>Fishtown.SR2</spring-cloud-stream.version>
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
     </properties>
+
+
+
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -56,6 +59,7 @@
             <id>spring-milestones</id>
             <name>Spring Milestones</name>
             <url>http://repo.spring.io/libs-milestone-local</url>
+            <snapshots>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>

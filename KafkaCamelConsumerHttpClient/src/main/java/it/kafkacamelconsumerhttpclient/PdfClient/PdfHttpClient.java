@@ -1,28 +1,11 @@
-package kafkacamelconsumerhttpclient.PdfClient;
+package it.kafkacamelconsumerhttpclient.PdfClient;
 
 import it.kafkacamelconsumerhttpclient.consumer.FeedbackManager;
-import it.kafkacamelconsumerhttpclient.consumer.model.AlarmManagedEvent;
-import it.kafkacamelconsumerhttpclient.core.alarm.repositories.AlarmRepository;
-import it.kafkacamelconsumerhttpclient.core.alarm.repositories.entities.AlarmEntity;
-import it.kafkacamelconsumerhttpclient.core.alarmlog.component.AlarmLogComponent;
-import it.kafkacamelconsumerhttpclient.core.statevehicle.repositories.StateVehicleRepository;
-import it.kafkacamelconsumerhttpclient.core.statevehicle.repositories.entities.StateVehicleEntity;
-import lombok.extern.slf4j.Slf4j;
-import org.apache.http.HttpEntity;
-import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClients;
-import org.apache.http.util.EntityUtils;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
-import java.util.Optional;
+import java.util.logging.Logger;
+
 
 @Slf4j
 @Component
