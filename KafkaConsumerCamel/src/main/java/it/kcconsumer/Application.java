@@ -10,7 +10,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableScheduling
-@Import(DataSourceConfig.class)
 @ComponentScan(basePackages = {"it.kcconsumer"})
 public class Application {
 

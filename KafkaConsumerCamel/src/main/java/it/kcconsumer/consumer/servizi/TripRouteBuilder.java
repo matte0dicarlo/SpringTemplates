@@ -12,12 +12,17 @@ public class TripRouteBuilder extends RouteBuilder {
                 .routeId("FromKafka")
                 .log("------- ROUTE BUILDER -------")
                 .log("${body}")             //formato JSON.
+/*
                 .onException(Exception.class)
                 .log(LoggingLevel.ERROR, "it.kcconsumer.radarmeteo", "Invalid Input")
                 .maximumRedeliveries(2).redeliveryDelay(30000)
+*/
                 .end()
+        ;
+/*
                 .to("bean:lastEndTripManager" +
                         "?method=getBody(${body})")
+*/
         ;
     }
 }
