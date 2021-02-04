@@ -1,3 +1,4 @@
+/*
 package it.restclienttemplate.config;
 
 import org.springframework.beans.factory.annotation.Value;
@@ -29,3 +30,4 @@ public class DataSourceConfig {
         return dataSourceBuilder.build();
     }
 }
+*/

@@ -1,6 +1,6 @@
 package it.restclienttemplate;
 
-import it.restclienttemplate.config.DataSourceConfig;
+//import it.restclienttemplate.config.DataSourceConfig;
 import it.restclienttemplate.config.RestTemplateConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Import;
 //@Import({DataSourceConfig.class, RestTemplateConfig.class})
 @Import({RestTemplateConfig.class})
 @EntityScan(
-        basePackages = {"it.fairconnect.repo"}
+        basePackages = {"it.restclienttemplate"}
 )
 public class Application {
     private static final Logger log = LoggerFactory.getLogger(Application.class);
