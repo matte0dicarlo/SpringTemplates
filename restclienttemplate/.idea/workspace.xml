@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="318dee26-9126-465b-9f0b-9dc7064752a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/restclienttemplate/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/restclienttemplate/rest/ScheduledCallService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/restclienttemplate/rest/client/ClientUnoInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/restclienttemplate/rest/client/ClientUnoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restservice/restservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restservice/src/main/java/it/restclienttemplate/rest/client/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/DataSourceConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/consumer/servizi/LastEndTripManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/consumer/servizi/SensorData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/consumer/servizi/TripRouteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/consumer/servizi/TripRouteBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/consumer/servizi/TspData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/endtripfinder/CheckForEndTripService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/endtripfinder/FinderComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/endtripfinder/exception/MissingItemException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/endtripfinder/repo/TripRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/endtripfinder/repo/TripRepositoryExtension.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/endtripfinder/repo/entities/TripEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/endtripfinder/rest/NotificationClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/endtripfinder/rest/Request.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/endtripfinder/rest/Response.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/resources/application-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/resources/application-prod.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaMultipleTopicConsumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaMultipleTopicConsumer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringScheduledKafkaProducer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringScheduledKafkaProducer/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringScheduledKafkaProducer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringScheduledKafkaProducer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,12 +21,12 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="731">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
         </entry>
@@ -72,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/it/restclienttemplate/rest/ScheduledCallService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -80,12 +55,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/restclienttemplate/rest/client/ClientUnoService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,10 +105,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="158" />
-    <option name="width" value="1440" />
-    <option name="height" value="791" />
+    <option name="x" value="1920" />
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,8 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,17 +168,25 @@
               <item name="rest" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="restclienttemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restclienttemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/it/restclienttemplate" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cosesviluppate/TestRestService/TestRestService/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../FairConnect/cert-provisioner/pom.xml" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -238,20 +219,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.5898876" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -259,14 +236,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5898876" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -279,12 +260,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/restclienttemplate/rest/client/ClientUnoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -292,7 +273,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/it/restclienttemplate/rest/ScheduledCallService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -308,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="731">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
