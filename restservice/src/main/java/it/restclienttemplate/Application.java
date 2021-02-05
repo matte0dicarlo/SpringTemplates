@@ -12,9 +12,6 @@ import org.springframework.context.annotation.Import;
 @SpringBootApplication
 //@Import({DataSourceConfig.class, RestTemplateConfig.class})
 @Import({RestTemplateConfig.class})
-@EntityScan(
-        basePackages = {"it.restclienttemplate"}
-)
 public class Application {
     private static final Logger log = LoggerFactory.getLogger(Application.class);
     private static final Logger logger = LoggerFactory.getLogger(Application.class);

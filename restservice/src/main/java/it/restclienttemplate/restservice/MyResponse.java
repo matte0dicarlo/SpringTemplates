@@ -3,8 +3,8 @@ package it.restclienttemplate.restservice;
 import lombok.Data;
 
 @Data
-public class MyRequest {
+public class MyResponse {
 
-    String requestValue;
+    String responseValue;
 
 }

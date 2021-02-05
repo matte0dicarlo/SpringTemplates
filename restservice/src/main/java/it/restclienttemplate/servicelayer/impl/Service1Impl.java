@@ -1,3 +1,4 @@
+/*
 package it.restclienttemplate.servicelayer.impl;
 
 import it.restclienttemplate.servicelayer.Service1;
@@ -12,3 +13,4 @@ public class Service1Impl implements Service1 {
         log.info("servicemethod1");
     }
 }
+*/

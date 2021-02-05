@@ -60,7 +60,6 @@
             <name>Spring Milestones</name>
             <url>http://repo.spring.io/libs-milestone-local</url>
             <snapshots>
-            <snapshots>
                 <enabled>false</enabled>
             </snapshots>
         </repository>
