@@ -38,15 +38,10 @@ public class MyControllerTest {
 
     @Test
     public void jsonValueNoParamPost() throws Exception {
-
-        ObjectMapper objectMapper = new ObjectMapper();
-
-
         this.mockMvc.perform(post("/jsonvaluenoparampost"))
                 .andDo(print())
                 .andExpect(status().isOk())
                 .andExpect(content().json("{\"responseValue\":\"123\"}"));
-
     }
 
 
