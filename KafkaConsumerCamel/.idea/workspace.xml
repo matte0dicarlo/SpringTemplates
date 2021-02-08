@@ -2,8 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bdfc2d9-3d00-4a07-812f-a3dd4a0d23ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../restservice/src/test/java/it/restclienttemplate/test/MyControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/test/java/it/consumer/test/MyConsumerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_4_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_3_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_3_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_25_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/libraries/Maven__org_springframework_spring_orm_5_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/DataSourceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/consumer/servizi/LastEndTripManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/services/MyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/consumer/servizi/SensorData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/consumer/servizi/TripRouteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/services/MyRouteBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/consumer/servizi/TspData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/services/MyModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/finder/CheckForEndTripService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/finder/FinderComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/finder/repo/TripRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/finder/repo/TripRepositoryExtension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/finder/repo/entities/TripEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/finder/rest/NotificationClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/finder/rest/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/java/it/consumer/finder/rest/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,7 +137,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
     <option name="y" value="27" />
     <option name="width" value="1920" />
     <option name="height" value="1053" />
@@ -79,7 +148,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,6 +201,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,9 +234,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16862327" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3665955" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -212,17 +281,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/it/kcconsumer/endtripfinder/CheckForEndTripService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.properties" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/kcconsumer/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/kcconsumer/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
         </state>
       </provider>
     </entry>

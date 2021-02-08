@@ -9,9 +9,6 @@ import org.springframework.context.annotation.Import;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
-@EnableScheduling
-@Import(DataSourceConfig.class)
-//@ComponentScan(basePackages = {"it.consumer.finder", "it.consumer.finder.rest", "it.consumer.consumer"})
 @ComponentScan(basePackages = {"it.consumer"})
 public class Application {
     private static final Logger log = LoggerFactory.getLogger(Application.class);

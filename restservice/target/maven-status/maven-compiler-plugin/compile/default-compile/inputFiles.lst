@@ -1,0 +1,9 @@
+/home/suinfreedom/Programmi/GITHUB/Templates/restservice/src/main/java/it/restclienttemplate/restservice/MyRequest.java
+/home/suinfreedom/Programmi/GITHUB/Templates/restservice/src/main/java/it/restclienttemplate/restservice/MyResponse.java
+/home/suinfreedom/Programmi/GITHUB/Templates/restservice/src/main/java/it/restclienttemplate/MyController.java
+/home/suinfreedom/Programmi/GITHUB/Templates/restservice/src/main/java/it/restclienttemplate/Application.java
+/home/suinfreedom/Programmi/GITHUB/Templates/restservice/src/main/java/it/restclienttemplate/config/DataSourceConfig.java
+/home/suinfreedom/Programmi/GITHUB/Templates/restservice/src/main/java/it/restclienttemplate/config/RestTemplateConfig.java
+/home/suinfreedom/Programmi/GITHUB/Templates/restservice/src/main/java/it/restclienttemplate/config/SwaggerConfig.java
+/home/suinfreedom/Programmi/GITHUB/Templates/restservice/src/main/java/it/restclienttemplate/servicelayer/Service1.java
+/home/suinfreedom/Programmi/GITHUB/Templates/restservice/src/main/java/it/restclienttemplate/servicelayer/impl/Service1Impl.java
