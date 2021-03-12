@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac09a5a-880e-40c8-8dbf-3c665c09799b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../restservice/src/test/java/it/restclienttemplate/test/MyControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringScheduledKafkaProducer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringScheduledKafkaProducer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/TEST-it.consumer.test.MyConsumerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/TEST-it.consumer.test.MyConsumerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/it.consumer.test.MyConsumerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/it.consumer.test.MyConsumerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/test-classes/it/consumer/test/MyConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/test-classes/it/consumer/test/MyConsumerTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,7 +19,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -159,17 +158,52 @@
               <item name="crash-data-stream" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kafka-Stream" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="crash-data-stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kafka-Stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crash-data-stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kafka-Stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crash-data-stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kafka-Stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crash-data-stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kafka-Stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crash-data-stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kafka-Stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+              <item name="crashdatastream" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../FairConnect/endtripfinder/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kafka-Topic-Switcher/pom.xml" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -204,7 +238,7 @@
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -219,7 +253,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3280899" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3280899" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
