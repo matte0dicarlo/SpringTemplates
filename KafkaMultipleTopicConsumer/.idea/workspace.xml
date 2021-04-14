@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="febc378a-b0cb-4dc4-a798-c7b59eb0ee38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Kafka-Stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kafka-Stream/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kafka-Topic-Switcher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kafka-Topic-Switcher/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kafka-Topic-Switcher/src/main/java/it/topicswitcher/consumer/servizi/AlarmDataRouteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kafka-Topic-Switcher/src/main/java/it/topicswitcher/consumer/servizi/AlarmDataRouteBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/TEST-it.consumer.test.MyConsumerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/TEST-it.consumer.test.MyConsumerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/it.consumer.test.MyConsumerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/it.consumer.test.MyConsumerTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/test-classes/it/consumer/test/MyConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/test-classes/it/consumer/test/MyConsumerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/logs/endtripfinder.log" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/logs/endtripfinder.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/consumer/servizi/TripRouteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/java/it/kcconsumer/consumer/servizi/TripRouteBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/src/main/resources/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/target/classes/it/kcconsumer/consumer/servizi/TripRouteBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/target/classes/it/kcconsumer/consumer/servizi/TripRouteBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringScheduledKafkaProducer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringScheduledKafkaProducer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootbase/spring-boot-base.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/spring-boot-base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/src/main/java/it/springbootbase/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/src/main/java/it/springbootbase/consumer/SimpleConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/src/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,20 +21,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/it/kconsumer/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="165">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3180">
-              <caret line="212" column="14" selection-start-line="212" selection-start-column="14" selection-end-line="212" selection-end-column="14" />
+            <state relative-caret-position="716">
+              <caret line="198" column="58" lean-forward="true" selection-start-line="198" selection-start-column="58" selection-end-line="198" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -271,7 +271,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -316,12 +315,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kafka-Topic-Switcher/pom.xml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -351,7 +351,7 @@
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19637139" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19850586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -477,6 +477,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/kconsumer/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -484,20 +494,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/kconsumer/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3180">
-          <caret line="212" column="14" selection-start-line="212" selection-start-column="14" selection-end-line="212" selection-end-column="14" />
+        <state relative-caret-position="716">
+          <caret line="198" column="58" lean-forward="true" selection-start-line="198" selection-start-column="58" selection-end-line="198" selection-end-column="58" />
         </state>
       </provider>
     </entry>

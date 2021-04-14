@@ -3,7 +3,6 @@ package life.fairconnect.tsp.kafka.consumer;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import life.fairconnect.tsp.kafka.configuration.ConsumerConfiguration;
 
-import life.fairconnect.tsp.kafka.tsp.raw.data.models.RawData;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.consumer.*;
 import org.apache.kafka.common.TopicPartition;
@@ -31,7 +30,7 @@ public class InjestionConsumer implements Runnable {
 
     private Map<String, Object> consumerProps;
 
-    private RawData rawData;
+//    private RawData rawData;
 
 
     public InjestionConsumer(ConsumerConfiguration consumerConfiguration) {
@@ -59,7 +58,6 @@ public class InjestionConsumer implements Runnable {
                     ConsumerRecords<String, String> consumerRecords = kafkaConsumer.poll(Duration.ofMillis(pollingTimeout));
                     for (ConsumerRecord<String, String> record : consumerRecords) {
                         log.info("record.value(): " + record.value());
-//                        rawData = jsonMapper.readValue(record.value(), RawData.class);
                     }
                 } catch (Exception e) {
                     log.error("Errore consumer:", e);

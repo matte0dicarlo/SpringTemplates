@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac09a5a-880e-40c8-8dbf-3c665c09799b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/TEST-it.consumer.test.MyConsumerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/TEST-it.consumer.test.MyConsumerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/it.consumer.test.MyConsumerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/surefire-reports/it.consumer.test.MyConsumerTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/test-classes/it/consumer/test/MyConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaCamelSpringBoot/consumer/target/test-classes/it/consumer/test/MyConsumerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/spring-boot-base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/src/main/java/it/springbootbase/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/src/main/java/it/springbootbase/consumer/SimpleConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KafkaSpringBootConsumer/src/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka-Topic-Switcher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kafka-Topic-Switcher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaConsumerCamel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaConsumerCamel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaMultipleTopicConsumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KafkaMultipleTopicConsumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootCucumber/spring-cucumber-template/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootCucumber/spring-cucumber-template/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootCucumber/spring-cucumber-template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBootCucumber/spring-cucumber-template/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -193,6 +199,13 @@
               <item name="it" type="462c0819:PsiDirectoryNode" />
               <item name="crashdatastream" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="crash-data-stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kafka-Stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -203,7 +216,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kafka-Topic-Switcher/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -238,7 +251,7 @@
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

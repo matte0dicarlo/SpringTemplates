@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cucumber-template" />
+        <module name="spring-cucumber" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-cucumber" options="-parameters" />
       <module name="spring-cucumber-template" options="-parameters" />
     </option>
   </component>
